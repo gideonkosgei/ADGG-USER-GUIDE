@@ -7,5 +7,47 @@ Index file=Index.hhk
 Language=0x809 English (United Kingdom)
 
 
+[FILES]
+account\account-info.htm
+account\change-password.htm
+account\forgot-password.htm
+administration\user-accounts.htm
+batches\batches-ai.htm
+batches\batches-animal-registration.htm
+batches\batches-calving.htm
+batches\batches-milking.htm
+batches\batches-pd.htm
+batches\batches-sync.htm
+batches\batches-weight.htm
+batches\batch-processing-intro.htm
+batches\batch-types.htm
+calendar\calendar.htm
+dashboards\animal-level.htm
+dashboards\herd-level.htm
+dashboards\introduction.htm
+events\ai.htm
+events\calving.htm
+events\exit.htm
+events\health.htm
+events\milking.htm
+events\pd.htm
+events\sync.htm
+events\weight.htm
+events\health\hoof-health.htm
+events\health\hoof-treatment.htm
+events\health\injury.htm
+events\health\introduction.htm
+events\health\parasite-infection.htm
+events\health\vaccination.htm
+getting-started\getting-started.htm
+management\animal-registration.htm
+management\exit-list.htm
+management\straws.htm
+partners\agents.htm
+partners\service-providers.htm
+system-parameters\event-matrix.htm
+system-parameters\limits.htm
+system-parameters\local-settings.htm
+
 [INFOTYPES]
 
